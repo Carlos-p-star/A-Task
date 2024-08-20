@@ -1,6 +1,6 @@
 Tech Stack:
 
-React
+React,
 Css,
-JavaScript,
+JavaScript.
 
